@@ -16,6 +16,7 @@ Projects
 Sorting Algorithm visualizer
 
 Mock-Social
+
 Casino Slot
 
 Snaplingo
