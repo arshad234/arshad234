@@ -13,9 +13,9 @@ Hi there this is Arshad Iqbal 👋
 Projects
 
 
-Sorting Algorithm visualizer
-Mock-Social 
-Casino Slot
-Snaplingo
+Sorting Algorithm visualizer\n
+Mock-Social\n 
+Casino Slot\n
+Snaplingo\n
 
 Portfolio Website
